@@ -1,3 +1,3 @@
 # 07-08 - Sequências númericas
 
-[link clicavel](https://github.com/lucasBatistaa/apiLanguages)
+- Criação de pastas e arquivos, escrevendo uma lista númerica dentro de cada arquivo e salvando
